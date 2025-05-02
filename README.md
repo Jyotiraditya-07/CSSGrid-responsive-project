@@ -27,7 +27,7 @@ Clean typography and visual hierarchy
 Clone the repository:
 
 sh
-git clone https://github.com/your-username/fashion-portfolio.git
+git clone https://github.com/Jyotiraditya-07/Fashion-Portfolio-
 Open index.html in your browser.
 
 📱 Responsive Behavior
